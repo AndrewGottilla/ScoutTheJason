@@ -1,1 +1,1 @@
-java -jar Client_cmd.jar
+java -jar Client.jar
